@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_beispiele/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/06_beispiele/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_beispiele/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/06_beispiele/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_beispiele/Bridge_Remote/Bridge_Remote.iml" filepath="$PROJECT_DIR$/06_beispiele/Bridge_Remote/Bridge_Remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/Builder/Builder.iml" filepath="$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_beispiele/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/06_beispiele/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_beispiele/Decorator_Permission/Decorator_Permission.iml" filepath="$PROJECT_DIR$/06_beispiele/Decorator_Permission/Decorator_Permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_beispiele/Facade/Facade.iml" filepath="$PROJECT_DIR$/06_beispiele/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_beispiele/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/06_beispiele/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/Modellierung/Modellierung.iml" filepath="$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/Modellierung/Modellierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Software Design Factory/05_beispiele/05_beispiele/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Software Design Allgemen.iml" filepath="$PROJECT_DIR$/.idea/Software Design Allgemen.iml" />
+    </modules>
+  </component>
+</project>
